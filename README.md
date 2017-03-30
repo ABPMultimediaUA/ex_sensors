@@ -4,7 +4,7 @@ This code is an application example for the implementation of simple sensors for
 
 ## Explanation
 
-This example is used during Computer Games lessons at the University of Alicante. You may want to check out the [associated C++ lesson video (in Spanish)](https://youtu.be/).
+This example was used during Computer Games lessons of the [Multimedia Degree](https://cvnet.cpd.ua.es/webcvnet/planestudio/planEstudioND.aspx?plan=C205&lengua=E&caca=2016-17) at the [University of Alicante](http://www.ua.es). You may want to check out the [associated C++ lesson video (in Spanish)](https://youtu.be/).
 
 ## Compilation requisites
 
