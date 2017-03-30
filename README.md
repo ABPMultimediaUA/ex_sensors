@@ -9,7 +9,7 @@ This code is an application example for the implementation of simple sensors for
 
 This example was used during Computer Games lessons of the [Multimedia Degree](https://cvnet.cpd.ua.es/webcvnet/planestudio/planEstudioND.aspx?plan=C205&lengua=E&caca=2016-17) at the [University of Alicante](http://www.ua.es). You may want to check out the [associated C++ lesson video (in Spanish)](https://youtu.be/mPapuUC0kLg):
 
-[![Francisco Gallego's Computer Games Lesson at the University of Alicante](https://img.youtube.com/vi/mPapuUC0kLg/0.jpg "Watch Francisco Gallego's lesson on Computer Games at the University of Alicante (in Spanish)")](https://youtu.be/mPapuUC0kLg)
+[![Francisco Gallego's Computer Games Lesson at the University of Alicante](https://img.youtube.com/vi/mPapuUC0kLg/hqdefault.jpg "Watch Francisco Gallego's lesson on Computer Games at the University of Alicante (in Spanish)")](https://youtu.be/mPapuUC0kLg)
 
 ## Compilation requisites
 
@@ -30,6 +30,6 @@ In order to compile this code you require:
 
 ## Copyright and License
 
-(c) 2017 Francisco Gallego 
+(c) 2017 Francisco J. Gallego-Durán
 
 This code is distributed under GNU-GPL v3 License.
