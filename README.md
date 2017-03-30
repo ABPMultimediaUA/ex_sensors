@@ -2,9 +2,14 @@
 
 This code is an application example for the implementation of simple sensors for enemies. It shows a simple maze game with different types of enemies and walls. The EnemySensor type has a seeing sensor and is able to see players in its looking at direction.
 
+![Screenshot of an enemy looking at a Player using its sight sensor](/media/gamescr00.png?raw=true "An enemy sees a player and stops moving, exemplifying the sight sensor implementation")
+
+
 ## Explanation
 
-This example was used during Computer Games lessons of the [Multimedia Degree](https://cvnet.cpd.ua.es/webcvnet/planestudio/planEstudioND.aspx?plan=C205&lengua=E&caca=2016-17) at the [University of Alicante](http://www.ua.es). You may want to check out the [associated C++ lesson video (in Spanish)](https://youtu.be/).
+This example was used during Computer Games lessons of the [Multimedia Degree](https://cvnet.cpd.ua.es/webcvnet/planestudio/planEstudioND.aspx?plan=C205&lengua=E&caca=2016-17) at the [University of Alicante](http://www.ua.es). You may want to check out the [associated C++ lesson video (in Spanish)](https://youtu.be/):
+
+[![Francisco Gallego's Computer Games Lesson at the University of Alicante](https://img.youtube.com/vi/xxxxx/0.jpg "Watch Francisco Gallego's lesson on Computer Games at the University of Alicante (in Spanish)")](https://youtu.be/)
 
 ## Compilation requisites
 
